@@ -26,3 +26,6 @@ api_version = "2025-04"
 
 [pos]
 embedded = false
+
+[build]
+include_config_on_deploy = true
